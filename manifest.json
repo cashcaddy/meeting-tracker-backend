@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "AI Meeting Action Tracker",
+  "description": "Extract action items from meeting notes using AI.",
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [],
+  "host_permissions": [
+    "http://localhost:3000/*"
+  ]
+}
